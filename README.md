@@ -60,8 +60,3 @@ This project focuses on the design, development, characterization, and intellige
   * **R² Score:** 0.989
 * Validated the effectiveness of integrating intelligent analytics with sensor technology for precision agriculture.
 
-## Repository
-
-**Hardware-Based Academic Project**
-
-> *Note: This project is hardware-focused and does not include a public source code repository.*
