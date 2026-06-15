@@ -39,14 +39,6 @@ This project focuses on the design, development, characterization, and intellige
 * XGBoost
 * Linear Regression
 
-## My Contributions
-
-* Designed and fabricated the flexible capacitive leaf wetness sensor using Eagle software.
-* Participated in hardware development and experimental setup.
-* Performed sensor characterization and frequency-response analysis under varying wetness conditions.
-* Conducted testing and validation of the developed sensor.
-* Assisted in result analysis and documentation related to sensor fabrication and experimentation.
-
 ## Results
 
 * Successfully fabricated and characterized a flexible leaf wetness sensor.
